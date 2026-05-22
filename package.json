@@ -1,0 +1,9 @@
+{
+  "name": "liquid-restaking-yield-optimizer",
+  "version": "1.0.0",
+  "description": "LST/LRT yield optimization and AVS reward harvesting",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "ethers": "^6.12.0"
+  }
+}
